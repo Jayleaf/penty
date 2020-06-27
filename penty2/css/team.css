@@ -1,0 +1,230 @@
+
+/* fonts */
+
+@font-face {
+	src: url(fonts/Vector-Regular.ttf);
+	font-family: Vector-Normal;
+}
+
+@font-face {
+	src: url(fonts/Vector-Bold.ttf);
+	font-family: Vector-Bold;
+}
+
+@font-face {
+  src: url(fonts/Montserrat-LightItalic.ttf);
+  font-family: MontLightI;
+}
+
+@font-face {
+  src: url(fonts/Montserrat-BoldItalic.ttf);
+  font-family: MontBoldI;
+}
+
+@font-face {
+  src: url(fonts/Poppins-MediumItalic.ttf);
+  font-family: PopMedIta;
+}
+
+
+
+
+/* header */
+
+.home {
+  font-family: Vector-Normal;
+  font-size: 35px;
+  background: Transparent;
+  color: #fff;
+  outline: 0px;
+  border: 0px;
+  margin-top: 20px;
+  margin-left: 50px;
+  letter-spacing: 5px;
+  float:left;
+}
+
+/* top tabs (REPLICATE THROUGH EACH PAGE) */
+
+
+.premium {
+  font-family: MontLightI;
+  padding: 0px 10px;
+  font-size: 20px;
+  background: Transparent;
+  color: #D4AF37;
+  outline: 0px;
+  border: 0px;
+  margin-top: 30px;
+  margin-left: 10px;
+  float:left;
+}
+
+.theteam {
+  font-family: MontLightI;
+  font-size: 20px;
+  background: Transparent;
+  color: #fff;
+  outline: 0px;
+  border: 0px;
+  margin-top: 30px;
+  margin-left: 10px;
+  float:left;
+}
+
+.commands {
+  font-family: MontLightI;
+  font-size: 20px;
+  background: Transparent;
+  color: #fff;
+  outline: 0px;
+  border: 0px;
+  margin-top: 30px;
+  margin-left: 10px;
+  float:left;
+}
+
+.support {
+  font-family: MontLightI;
+  font-size: 20px;
+  background: Transparent;
+  color: #fff;
+  outline: 0px;
+  border: 0px;
+  margin-top: 30px;
+  margin-left: 10px;
+  float:left;
+}
+
+/* Support team heading */
+
+.everything {
+	margin-top: 100px;
+	position: fixed;
+	 left: 50%;
+	 transform: translateX(-50%);
+}
+
+
+
+.supportteamheader {
+  color: #fff;
+  font-family: PopMedIta;
+	text-align: center;
+  font-size: 30px;
+  padding: 10px 20px;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  border-spacing: 10px;
+}
+
+#webdev {
+  color: #fff;
+	text-align: center;
+  font-family: MontLightI;
+}
+
+#botheader {
+  color: #fff;
+	text-align: center;
+  font-family: MontLightI;
+}
+
+#gfx {
+  color: #fff;
+	text-align: center;
+  font-family: MontLightI;
+}
+
+#jaydev {
+  color: #ffffff;
+  font-size: 24px;
+	text-align: center;
+  font-family: MontLightI;
+}
+
+#botdevs {
+  color: #fff;
+  font-size: 24px;
+	text-align: center;
+  font-family: MontLightI;
+}
+
+#designers {
+  color: #fff;
+  font-size: 24px;
+	text-align: center;
+  font-family: MontLightI;
+}
+
+#contactheader {
+  color: #fff;
+  font-family: PopMedIta;
+  font-size: 30px;
+  padding: 10px 20px;
+	text-align: center;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  border-spacing: 10px;
+	margin-top: 100px;
+	position: fixed;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+#webdevinq {
+  color: #ffffff;
+	float: left;
+  font-family: MontLightI;
+  text-align: center;
+  font-size: 18px;
+	margin-top: 620px;
+	position: fixed;
+	left: 20%;
+	transform: translateX(-50%);
+}
+
+.twitter {
+  color: #fff;
+  font-family: MontLightI;
+  font-size: 12px;
+	text-align: center;
+  border: 0px;
+  background: transparent;
+}
+
+#botdevinq {
+  color: #ffffff;
+	float: left;
+	text-align: center;
+  font-family: MontLightI;
+  font-size: 18px;
+	margin-top: 620px;
+	position: fixed;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+#gfxinq {
+  color: #ffffff;
+	float: left;
+	text-align: center;
+  font-family: MontLightI;
+  font-size: 18px;
+	margin-top: 620px;
+	position: fixed;
+	left: 80%;
+	transform: translateX(-50%);
+}
+
+.twitter2 {
+  color: #fff;
+  font-family: MontLightI;
+	text-align: center;
+  font-size: 12px;
+  border: 0px;
+  background: transparent;
+}
+
+.contact {
+}
