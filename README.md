@@ -10,7 +10,7 @@ Graphic Designers: Jayleaf, Kacper<br/><br/>
 
 Contact information:<br/><br/>
 
-Prith#9001 // Prith<br/>
+Prith#0001 // Prith<br/>
 raspyign@gmail.com // Prith<br/>
 Surge#4297 // Suragith<br/>
 cinderpelt@protonmail.com // Jayleaf<br/>
