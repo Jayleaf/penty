@@ -1,6 +1,8 @@
 # penty<br/>
 A website built for the multi-functional bot, Penty.<br/><br/>
 
+(THIS WEBPAGE CAN BE FOUND AT: https://www.prithdev.codes/)<br/><br/>
+
 Hey! Feel free to take any elements from this website for personal use as long as you credit me, Jayleaf#1234. Thank you!<br/><br/>
 
 Penty Dev Team: <br/>
