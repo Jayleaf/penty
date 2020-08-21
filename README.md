@@ -15,9 +15,7 @@ Contact information:<br/><br/>
 Prith#0001 // Prith<br/>
 raspyign@gmail.com // Prith<br/>
 Surge#4297 // Suragith<br/>
-cinderpelt@protonmail.com // Jayleaf<br/>
 rjayleaf@gmail.com // Jayleaf<br/>
 Jayleaf#1234 // Jayleaf<br/>
-@jayleaves // Jayleaf (Twitter)<br/>
 Kacper#3956 // Kacper<br/>
 
